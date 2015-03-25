@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74EE336A-1B1A-4696-8FDF-A4FBB4103508</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GIT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>597D3B04AFF6E2F88034E503CA1CE5E675E466CE</key>
+		<string>https://github.com/cwiggo/Test-Git-iOs-Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GIT.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>597D3B04AFF6E2F88034E503CA1CE5E675E466CE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cwiggo/Test-Git-iOs-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>597D3B04AFF6E2F88034E503CA1CE5E675E466CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>597D3B04AFF6E2F88034E503CA1CE5E675E466CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GIT</string>
+		</dict>
+	</array>
+</dict>
+</plist>

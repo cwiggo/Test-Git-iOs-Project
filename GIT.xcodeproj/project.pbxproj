@@ -14,6 +14,7 @@
 		835BE5901AC2B1EE003C5F58 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 835BE58F1AC2B1EE003C5F58 /* Images.xcassets */; };
 		835BE5931AC2B1EE003C5F58 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 835BE5911AC2B1EE003C5F58 /* LaunchScreen.xib */; };
 		835BE59F1AC2B1EF003C5F58 /* GITTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 835BE59E1AC2B1EF003C5F58 /* GITTests.m */; };
+		835BE5AA1AC2B8A5003C5F58 /* CCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 835BE5A91AC2B8A5003C5F58 /* CCTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		835BE5981AC2B1EF003C5F58 /* GITTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GITTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		835BE59D1AC2B1EF003C5F58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		835BE59E1AC2B1EF003C5F58 /* GITTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GITTests.m; sourceTree = "<group>"; };
+		835BE5A81AC2B8A5003C5F58 /* CCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CCTest.h; path = ../CCTest.h; sourceTree = "<group>"; };
+		835BE5A91AC2B8A5003C5F58 /* CCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CCTest.m; path = ../CCTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 		835BE5811AC2B1EE003C5F58 /* GIT */ = {
 			isa = PBXGroup;
 			children = (
+				835BE5A81AC2B8A5003C5F58 /* CCTest.h */,
+				835BE5A91AC2B8A5003C5F58 /* CCTest.m */,
 				835BE5861AC2B1EE003C5F58 /* AppDelegate.h */,
 				835BE5871AC2B1EE003C5F58 /* AppDelegate.m */,
 				835BE5891AC2B1EE003C5F58 /* ViewController.h */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				835BE58B1AC2B1EE003C5F58 /* ViewController.m in Sources */,
+				835BE5AA1AC2B8A5003C5F58 /* CCTest.m in Sources */,
 				835BE5881AC2B1EE003C5F58 /* AppDelegate.m in Sources */,
 				835BE5851AC2B1EE003C5F58 /* main.m in Sources */,
 			);
